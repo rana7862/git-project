@@ -7,9 +7,9 @@ create branches dev and feature
 create pull request
 
 Commands
-add git - git init
+add git - git init,
 to add files- git add ,
-to create commit - git commit -m "message"
-to create a new branch - git checkout -b "branchname"
+to create commit - git commit -m "message",
+to create a new branch - git checkout -b "branchname", 
 to add my branch in my repository - git push -u origin branchname{dev,feature}
 
